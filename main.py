@@ -9,7 +9,7 @@ import random
 today = datetime.now()
 start_date = '2020-12-23'
 city = '无锡'
-birthday = '12-02'
+birthday = '12-21'
 
 user_id = ['oMNK46BkX7So2Fvc87Mij26Wii78', 'oMNK46AKYRCXKP1Ve3En3fYqg5fc']
 template_id = 'z5ddwWYu-YKzI31ygLaaMyVYmmQe33nLprIoJMmHOcc'
