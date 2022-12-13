@@ -1,7 +1,7 @@
 name: morning
 on:
   schedule:
-  - cron:  '0 8 * * *'
+  - cron:  '55 23 * * *'
   workflow_dispatch:
 
 jobs:
@@ -26,5 +26,5 @@ jobs:
       APP_ID: ${{ secrets.APP_ID }}
       APP_SECRET: ${{ secrets.APP_SECRET }}
       START_DATE: '2020-12-23'
-      BIRTHDAY: '12-02'
+      BIRTHDAY: '12-21'
       CITY: '无锡'
